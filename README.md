@@ -1,4 +1,4 @@
-#I Love You--- Heart Animation ❤️
+# I Love You❤️
 
 A small Python project that recreates a heart shape using 100 animated "I love you" text elements.
 
